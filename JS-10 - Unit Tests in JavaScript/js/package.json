@@ -23,5 +23,6 @@
   "homepage": "https://github.com/generation-org/JS#readme",
   "devDependencies": {
     "jest": "^25.2.4"
-  }
+  },
+  "dependencies": {}
 }
